@@ -1,0 +1,33 @@
+{
+  "careAppMonoApp": {
+    "visit": {
+      "home": {
+        "title": "Visits",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Visit erstellen",
+        "createOrEditLabel": "Visit erstellen oder bearbeiten",
+        "notFound": "Keine Visits gefunden"
+      },
+      "created": "Visit erstellt mit ID {{ param }}",
+      "updated": "Visit aktualisiert mit ID {{ param }}",
+      "deleted": "Visit gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Visit {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Visit"
+      },
+      "id": "ID",
+      "client": "Client",
+      "address": "Address",
+      "carer": "Carer",
+      "accesscode": "Accesscode",
+      "timein": "Timein",
+      "status": "Status",
+      "timespent": "Timespent",
+      "rota": "Rota",
+      "carer": "Carer",
+      "client": "Client"
+    }
+  }
+}

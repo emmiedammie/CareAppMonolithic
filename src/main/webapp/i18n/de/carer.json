@@ -1,0 +1,29 @@
+{
+  "careAppMonoApp": {
+    "carer": {
+      "home": {
+        "title": "Carers",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Carer erstellen",
+        "createOrEditLabel": "Carer erstellen oder bearbeiten",
+        "notFound": "Keine Carers gefunden"
+      },
+      "created": "Carer erstellt mit ID {{ param }}",
+      "updated": "Carer aktualisiert mit ID {{ param }}",
+      "deleted": "Carer gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Carer {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Carer"
+      },
+      "id": "ID",
+      "name": "Name",
+      "phone": "Phone",
+      "daysavailable": "Daysavailable",
+      "visit": "Visit",
+      "rota": "Rota",
+      "client": "Client"
+    }
+  }
+}

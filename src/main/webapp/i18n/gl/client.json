@@ -1,0 +1,32 @@
+{
+  "careAppMonoApp": {
+    "client": {
+      "home": {
+        "title": "Clients",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Crear novo Client",
+        "createOrEditLabel": "Crear ou editar Client",
+        "notFound": "No Clients found"
+      },
+      "created": "Un novo Client foi creado co identificador {{ param }}",
+      "updated": "Un Client foi actualizado co identificador {{ param }}",
+      "deleted": "Un Client foi eliminado co identificador {{ param }}",
+      "delete": {
+        "question": "Seguro que desexa eliminar Client {{ id }}?"
+      },
+      "detail": {
+        "title": "Client"
+      },
+      "id": "ID",
+      "name": "Name",
+      "phone": "Phone",
+      "age": "Age",
+      "address": "Address",
+      "accesscode": "Accesscode",
+      "task": "Task",
+      "carerassigned": "Carerassigned",
+      "carer": "Carer",
+      "visit": "Visit"
+    }
+  }
+}
