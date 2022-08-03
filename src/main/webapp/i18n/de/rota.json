@@ -1,0 +1,29 @@
+{
+  "careAppMonoApp": {
+    "rota": {
+      "home": {
+        "title": "Rotas",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Rota erstellen",
+        "createOrEditLabel": "Rota erstellen oder bearbeiten",
+        "notFound": "Keine Rotas gefunden"
+      },
+      "created": "Rota erstellt mit ID {{ param }}",
+      "updated": "Rota aktualisiert mit ID {{ param }}",
+      "deleted": "Rota gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Rota {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Rota"
+      },
+      "id": "ID",
+      "client": "Client",
+      "carer": "Carer",
+      "time": "Time",
+      "duration": "Duration",
+      "carer": "Carer",
+      "visit": "Visit"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "careAppMonoApp": {
+    "rota": {
+      "home": {
+        "title": "Rotas",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Crear novo Rota",
+        "createOrEditLabel": "Crear ou editar Rota",
+        "notFound": "No Rotas found"
+      },
+      "created": "Un novo Rota foi creado co identificador {{ param }}",
+      "updated": "Un Rota foi actualizado co identificador {{ param }}",
+      "deleted": "Un Rota foi eliminado co identificador {{ param }}",
+      "delete": {
+        "question": "Seguro que desexa eliminar Rota {{ id }}?"
+      },
+      "detail": {
+        "title": "Rota"
+      },
+      "id": "ID",
+      "client": "Client",
+      "carer": "Carer",
+      "time": "Time",
+      "duration": "Duration",
+      "carer": "Carer",
+      "visit": "Visit"
+    }
+  }
+}
